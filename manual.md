@@ -18,6 +18,9 @@ python manage.py collectstatic
 
 montar o template
 
+
+asdffdsf
+
 pip install django_plotly_dash
 
 installed apps
