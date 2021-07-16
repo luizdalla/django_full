@@ -1,0 +1,2 @@
+# djangofull
+django + dash + djangoREST
