@@ -95,3 +95,5 @@ STATICFILES_FINDERS = [
 13) Adicionar app dash
 
 14) continua  ...
+
+teminar
